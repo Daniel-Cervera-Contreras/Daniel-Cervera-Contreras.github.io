@@ -42,14 +42,14 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: DANOCERV
+    bio: Un joven de 18 años feliz de estar aqui.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: 
   jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    name: Daniel Jesus Cervera Contreras
+    bio:Un joven de 18 años feliz de estar aqui.
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
