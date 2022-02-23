@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: Daniel Cervera
 twitter: mytwitter
-instagram: myinstagram
+instagram: daniel_cerveraa
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: Daniel-Cervera-Contreras
+email: cerveradaniel518@gmail.com
 
 authors:
   johndoe:
