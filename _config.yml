@@ -8,8 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Fotoparasitioweb.jpg
-
+picture: [![Fotoparasitioweb.jpg](https://i.postimg.cc/Jh9jWwKj/Fotoparasitioweb.jpg)](https://postimg.cc/VSWJjVxN)
 # your site color theme, false to light theme
 dark-theme: true
 
@@ -45,13 +44,13 @@ authors:
     name: DANOCERV
     bio: Un joven de 18 años feliz de estar aqui.
     external-image: false
-    picture: assets/images/Fotoparasitioweb.jpg
+    picture: [![Fotoparasitioweb.jpg](https://i.postimg.cc/Jh9jWwKj/Fotoparasitioweb.jpg)](https://postimg.cc/VSWJjVxN)
     twitter: 
   jamesfoster:
     name: Daniel Jesus Cervera Contreras
     bio:Un joven de 18 años feliz de estar aqui.
     external-image: false
-    picture: assets/images/Fotoparasitioweb.jpg
+    picture: [![Fotoparasitioweb.jpg](https://i.postimg.cc/Jh9jWwKj/Fotoparasitioweb.jpg)](https://postimg.cc/VSWJjVxN)
     twitter: jamesfoster
 
 # do you want a larger site? change the option below
